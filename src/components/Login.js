@@ -9,7 +9,7 @@ const Login =(props) => {
        <Container>
         <Content>
           <CTA>
-            <CTALogoOne src="/images/cta-logo-one.svg"  alt=""/>
+            <CTALogoOne src="/Hostar-UI/images/cta-logo-one.svg"  alt=""/>
             <SignUp> GET ALL THERE </SignUp>
             <Description>
               Get Periumun acvess to the Raya and the last Dragon <br/>
